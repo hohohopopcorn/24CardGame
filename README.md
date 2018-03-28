@@ -4,3 +4,5 @@ Solve all possible hands in the game 24. The game 24 is a Chinese card game invo
 https://en.wikipedia.org/wiki/24_Game
 
 There are several files in this repository but they all mainly aim to solve any given card hands in the game.
+
+Last changed October 2014.
